@@ -1,0 +1,31 @@
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\appsettings.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.exe
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.deps.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.runtimeconfig.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.runtimeconfig.dev.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ref\ObligatoriskOpgave4.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\ObligatoriskOpgave4.pdb
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Opgave 1.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\bin\Release\net5.0\Opgave 1.pdb
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.csproj.AssemblyReference.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.AssemblyInfoInputs.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.AssemblyInfo.cs
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\staticwebassets\ObligatoriskOpgave4.StaticWebAssets.Manifest.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\staticwebassets\ObligatoriskOpgave4.StaticWebAssets.xml
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\scopedcss\bundle\ObligatoriskOpgave4.styles.css
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.RazorTargetAssemblyInfo.cache
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.csproj.CopyComplete
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ref\ObligatoriskOpgave4.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.pdb
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\ObligatoriskOpgave4.genruntimeconfig.cache

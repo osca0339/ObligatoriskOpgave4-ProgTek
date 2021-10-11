@@ -1,0 +1,13 @@
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\ObligatoriskOpgave4.exe
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\ObligatoriskOpgave4.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\ObligatoriskOpgave4.deps.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\ObligatoriskOpgave4.runtimeconfig.json
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\ObligatoriskOpgave4.pdb
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Opgave 1.dll
+C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\obj\Release\net5.0\PubTmp\Out\Opgave 1.pdb

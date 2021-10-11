@@ -4,6 +4,7 @@
     <Controller_SelectedScaffolderID>ApiControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
     <ActiveDebugProfile>ObligatoriskOpgave4</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Oscar\Documents\GitHub\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4-ProgTek\ObligatoriskOpgave4\ObligatoriskOpgave4\Properties\PublishProfiles\osca5515-REST - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
