@@ -17,27 +17,58 @@ namespace ObligatoriskOpgave4.Managers
         }
         public bool Create(FootballPlayer value)
         {
-            
+            try
+            {
+                _context.Players.Add(value);
+                _context.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
         public FootballPlayer Delete(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var playerToDelete = _context.Players.Find(id);
+                _context.Players.Remove(playerToDelete);
+                _context.SaveChanges();
+                return playerToDelete;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
         }
 
         public IEnumerable<FootballPlayer> Get()
         {
-            throw new NotImplementedException();
+            return _context.Players;
         }
 
         public FootballPlayer Get(int id)
         {
-            throw new NotImplementedException();
+            return _context.Players.Find(id);
         }
 
         public bool Update(int id, FootballPlayer value)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var playerToUpdate = _context.Players.Find(id);
+                playerToUpdate.Name = value.Name;
+                playerToUpdate.Price = value.Price;
+                playerToUpdate.ShirtNumber = value.ShirtNumber;
+                _context.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
     }
 }
